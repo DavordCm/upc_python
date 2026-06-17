@@ -27,4 +27,4 @@ if nacimiento < 20:
 else:
     print("Es mayor de edad")
 
-print ("El joven",nombre,"tiene de edad de ", mIedad ,"y su nacimiento es del", nacimiento)
+print ("El joven",nombre,"tiene de edad de", mIedad ,"y su nacimiento es del", nacimiento)
